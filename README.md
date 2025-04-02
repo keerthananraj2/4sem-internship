@@ -33,7 +33,7 @@ File Structure
 |-- pro[1-6].jpg          # Property images
 
 Clone this Repository
-git clone 
+git clone https://github.com/keerthananraj2/4sem-internship.git
 
 Future Enhancements
 Backend Integration: Add a database to store property listings dynamically.
